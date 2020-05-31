@@ -11,4 +11,4 @@
 ![](Self-Portrait.png)
 
 - Here is the video of the whole process
-<li><a href="https://www.youtube.com/watch?v=w4cdbV2oaEc" >Eggbot</a></li>
+<li><a href="https://www.youtube.com/" >Self-Portrait</a></li>
