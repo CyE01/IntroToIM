@@ -11,4 +11,4 @@
 ![](Self-Portrait.png)
 
 - Here is the video of the whole process
-<li><a href="https://www.youtube.com/" >Self-Portrait</a></li>
+  - <li><a href="https://youtu.be/rYEdizdQyB0" >Self-Portrait</a></li>
