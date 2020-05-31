@@ -8,7 +8,7 @@
   
 - Here is a picture of my project
 
-![](Self-Portrait.png)
+![](Self-portrait.png)
 
 - Here is the video of the whole process
 <li><a href="https://www.youtube.com/watch?v=w4cdbV2oaEc" >Eggbot</a></li>
