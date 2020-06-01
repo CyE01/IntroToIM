@@ -8,7 +8,7 @@
   
 - Here is a picture of my project
 
-![](Self-Portrait.png)
+
 
 - Here is the video of the whole process
   <li><a href="https://youtu.be/rYEdizdQyB0" >Self-Portrait</a></li>
