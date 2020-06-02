@@ -1,5 +1,6 @@
 # Here is assignment two
-## "The Art of Animation"
-### Coding process
-- I used for loops
+## "Playground"
+![] "playground.mov"
+### Description
+- I used "for" loops and "while loops"
 -
