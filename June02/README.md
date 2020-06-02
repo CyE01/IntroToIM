@@ -1,11 +1,11 @@
 # Here is assignment two
 ## "Playground"
-- Here's a video showcase of my work. 
-   
- <li><a href="https://www.youtube.com/watch?v=W10grUKg4AY" >Playground</a></li> 
+- Here's the video of my work. 
+- <li><a href="https://www.youtube.com/watch?v=W10grUKg4AY" >Playground</a></li> 
  
 - Here is a screenshot. 
-![] (Playground.png)
+
+![](Playground.png)
  
 ### Description:
 - Goal: create an animation for children
