@@ -15,6 +15,6 @@
 ### Difficulties:
 - Finding the right coordinates for each shapes was time-comsuming. 
 - It also was hard to determine the exact functions to move the ball along the curve. 
-- There were multiple times when the system showed errors (i.e. somehow my new coding were in conflict with the previous ones), but I couldn't figure out what was wrong and have to change my plan. 
+- There were multiple times when the system showed errors (i.e. somehow the new code was in conflict with the previous ones), but I couldn't figure out what was wrong and have to change my plan. 
 - I am still trying to figure out how to better apply "while" loops and "for" loops. 
 
