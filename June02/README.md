@@ -1,7 +1,6 @@
 # Here is assignment two
 ## "Playground"
-- Here's the video of my work. 
-- <li><a href="https://www.youtube.com/watch?v=W10grUKg4AY" >Playground</a></li> 
+- Here's the video of my work.  <li><a href="https://www.youtube.com/watch?v=W10grUKg4AY" >Playground</a></li> 
  
 - Here is a screenshot. 
 
