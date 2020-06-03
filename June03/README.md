@@ -7,7 +7,7 @@
 ![](Raindrops.png)
 ### Description:
 - Goal: use Object Oriented Programming (OOP) and Array to create a rain.
-- Insprised by: <li><a href="https://www.youtube.com/watch?v=KkyIDI6rQJI" >PurpleRain</a></li>
+- Insprised by: <a href="https://www.youtube.com/watch?v=KkyIDI6rQJI" >PurpleRain</a>
 - Process:
   - Draw a raindrop with ellipse and triangle. 
   - Using "PShape" and "createShape" to create the raindrop group. 
