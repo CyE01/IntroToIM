@@ -1,9 +1,9 @@
 # Assignment 3
-## "Raindrops" (Inspired by<li><a href="https://www.youtube.com/watch?v=KkyIDI6rQJI" >PurpleRain</a></li> 
+## "Raindrops"  
 - Here is a video of my work:
 - Here is the screenshots of my work:
 
-![](A Single Raindrop.png)
+![](aRaindrop.png)
 ![](Raindrops.png)
 ### Description (use Object Oriented Programming (OOP) and Array to create a rain):
 - Draw a raindrop with ellipse and triangle. 
@@ -15,5 +15,5 @@
 But after searching on reference page, I was able to learn how to use "PShape" and "createShape".
 - After creating the raindrop shape and wrote the "class", 
 I can't make the single raindrop move (i.e. or move as a whole) for some reason that I still don't understand. 
-But I found a video that help me solve the problem in another method. <li><a href="https://www.youtube.com/watch?v=KkyIDI6rQJI" >PurpleRain</a></li>
+But I found a video that help me solve the problem in another method:(Inspired by<li><a href="https://www.youtube.com/watch?v=KkyIDI6rQJI" >PurpleRain</a></li>)
 
