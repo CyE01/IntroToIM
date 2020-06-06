@@ -1,6 +1,7 @@
 # Assignment 5 by Chenyu (Due June 7, 2020)
 ## Data Visualization:
 Here is the video of my work:
+<https://youtu.be/rnqDjuCUydk>
 
 Here are a few screenshots:
 
