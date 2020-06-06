@@ -1,5 +1,5 @@
 # Assignment 5 by Chenyu (Due June 7, 2020)
-## Data Visualization (Avocado Prices):
+## Data Visualization (Avocado Prices): 
 Here is the video of my work:
 <https://youtu.be/rnqDjuCUydk>
 
@@ -7,6 +7,8 @@ Here are a few screenshots:
 ![](Introduction.png)
 
 ![](Main.png)
+
+Resources: AvocadoPrices.pde + class.pde
 
 ### Description:
 - Goal: Create a graph about Avocado prices to demonstrate its relationship with the total volume. 
@@ -32,6 +34,8 @@ Here are a few screenshots:
 ![](Rain2.png)
 ![](Rain3.png)
 ![](Rain4.png)
+
+Resources: Raindrops+Transformation.pde
 
 ### Description:
 - Goal: Use transformation to rotate the raindrops and the positions of some raindrops as they fall by pressing any keys. 
