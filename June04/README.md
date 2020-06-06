@@ -8,7 +8,7 @@ Here are a few screenshots:
 
 ![](Main.png)
 
-Resources: AvocadoPrices.pde + class.pde
+Resources: AvocadoPrices.pde, class_graph.pde, Avocados.csv.
 
 ### Description:
 - Goal: Create a graph about Avocado prices to demonstrate its relationship with the total volume. 
@@ -35,7 +35,7 @@ Here are a few screenshots:
 ![](Rain3.png)
 ![](Rain4.png)
 
-Resources: Raindrops+Transformation.pde
+Resources: Raindrops+Transformation.pde, Class_Drop.pde.
 
 ### Description:
 - Goal: Use transformation to rotate the raindrops and the positions of some raindrops as they fall by pressing any keys. 
