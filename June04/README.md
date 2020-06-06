@@ -4,6 +4,7 @@ Here is the video of my work:
 <https://youtu.be/rnqDjuCUydk>
 
 Here are a few screenshots:
+![]()
 
 ### Description (Avocados):
 - Goal: Create a graph about Avocado prices to demonstrate its relationship with the total volume. 
