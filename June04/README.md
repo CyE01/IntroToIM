@@ -14,6 +14,7 @@ Here are a few screenshots:
   - 1) Create an instroduction page with "PFont" "text" "loadImage", "String", and use "keyPressed" to control the flow from the introduction page to the main page
   - 2) Creating a class as the main page (i.e. Coordinate system and data points) with "lines", "table", "loadTable", "TableRow" "getFloat", and "ellipse", and use the same method to label x and y axis. 
 - Instructions for usage: Pressed any key to jump from the introduction page to the main page and the graph will automatically show up. 
+  - 3）The unit for x axis is Dollar for every 100 avocados and the unit for y axis is ten thousand. 
 - The source of data: <kaggle.com/neuromusic/avocado-prices>.
 
 ### Difficulties and Challenages:
@@ -27,10 +28,10 @@ Here is the video of my work:
 <https://youtu.be/r2ZNYvqUpjc>
 
 Here are a few screenshots:
-![](Rain1/png)
-![](Rain2/png)
-![](Rain3/png)
-![](Rain4/png)
+![](Rain1.png)
+![](Rain2.png)
+![](Rain3.png)
+![](Rain4.png)
 
 ### Description:
 - Goal: Use transformation to rotate the raindrops and the positions of some raindrops as they fall by pressing any keys. 
@@ -40,7 +41,5 @@ Here are a few screenshots:
   - 3) I created variables x and y and made the raindrops any colors. 
 - Instructions for usage:
   - 1) Press any key to change from normal state to transformed version. 
-  - 2) 
-- The source of data: 
-
 ### Difficulties and Challenages:
+- I was trying to change the raindrops' colors after some of them are roated and changed positions; however, I still wasn't able to do it at the end. 
