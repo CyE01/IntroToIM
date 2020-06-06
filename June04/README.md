@@ -6,7 +6,7 @@ Here is the video of my work:
 Here are a few screenshots:
 ![](Introduction.png)
 
-![](Main)
+![](Main.png)
 
 ### Description (Avocados):
 - Goal: Create a graph about Avocado prices to demonstrate its relationship with the total volume. 
