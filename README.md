@@ -8,14 +8,3 @@
    - part of 2
 - item 2
 
-This is my new journal one  This is my new journal one This is my new journal one This is my new journal one This is my new journal one 
-This is my new journal one 
-This is my new journal one 
-This is my new journal one 
-This is my new journal one 
-
-This is my new journal one This is my new journal one This is my new journal one 
-This is my new journal one 
-This is my new journal one 
-This is my new journal one 
-This is my new journal one 
