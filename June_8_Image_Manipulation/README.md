@@ -6,8 +6,8 @@
 
 - Here are some screenshots:
 
-![]("MP1.png")
-![]("MP2.png")
+![](MP1.png)
+![](MP2.png)
 
 ### Description:
 - 1) I used three pineapple pictures, and cut a portion out of each image, and combine them together to form a new pineapple.
