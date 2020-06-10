@@ -1,5 +1,5 @@
 # Midterm Project
-## "Klotski: Huarongdao" by Chenyu due June 10
+## "Addition" by Chenyu due June 10
 ### The overall concept: 
 - Creating a game with 8 bricks numbered from 1 to 8, 
 players needs to move the blank brick (i.e. right, left, up, or down), one at a time until they can not move any more bricks.
