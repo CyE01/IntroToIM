@@ -12,7 +12,7 @@ If both lights are on, then the players can go to the next room.
 
 ![](1.png)
 ![](2.png)
-![](3.png)
+![](3.JPG)
 
 
 
